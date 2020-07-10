@@ -1,6 +1,6 @@
 # Answers to the 'Git For Web Development' Module
 # Contributor:Ismail Al Kamal
-# TL: LeRoyce Pearson
+# TL: LeRoyce Pearson (leroycep) / Sunday TL: Marc Tapp (tippitytapp)
 
     MVP Project:
     https://codepen.io/ialkamal/pen/wvMjrrx
